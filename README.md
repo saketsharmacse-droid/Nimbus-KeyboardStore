@@ -4,6 +4,8 @@ A mechanical keyboard e-commerce site with an interactive 3D product viewer, bui
 
 What started as a "quick weekend build" turned into about three nights of barely sleeping. Somewhere around night two I stopped pretending I was going to bed early, and just accepted I'd be debugging shader-adjacent nonsense at 2 AM, this projct took a lot of debugging and late night sessions of commitment.
 
+CheckOut the Project's final look: https://nimbus-keyboard-store.vercel.app/
+
 ## What it does
 
 - Interactive 3D keyboard models you can rotate and zoom into on the product pages

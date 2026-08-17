@@ -1,0 +1,52 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Saddle"
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Cupidatat nulla minim id nostrud deserunt sunt. Nulla consequat excepteur nostrud exercitation et eiusmod excepteur magna ea nisi voluptate in. Incididunt reprehenderit proident velit irure reprehenderit eu veniam aliquip velit."
+						}
+					}
+				]
+			},
+			"switches": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"switch",
+								{
+									"__TYPE__": "LinkContent",
+									"key": "71ba7f60-65f9-4a50-b5fe-62682e5443b0",
+									"value": {
+										"__TYPE__": "DocumentLink",
+										"id": "mock_document_id"
+									}
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

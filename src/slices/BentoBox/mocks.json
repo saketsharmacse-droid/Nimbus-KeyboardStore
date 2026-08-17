@@ -1,0 +1,78 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Maybe"
+						}
+					}
+				]
+			},
+			"items": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"size",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "Large",
+									"type": "Select"
+								}
+							],
+							[
+								"image",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+										"width": 3500,
+										"height": 2338
+									},
+									"url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+									"width": 3500,
+									"height": 2338,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "quite",
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"text",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Proident proident esse veniam duis ut nostrud qui sint. Ad sint est ea ut eiusmod eiusmod magna incididunt nisi consequat cillum tempor non fugiat est."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
